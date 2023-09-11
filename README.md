@@ -1,3 +1,3 @@
 # Redes
 
-Redes de Computadores - UNIFESP
+Projetos da disciplina de Redes de Computadores da UNIFESP
